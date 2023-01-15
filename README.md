@@ -1,11 +1,17 @@
 ## Apps-Gather
 
-## App Description
-### This Repo is representing all the apps that I do in my free time, app that is small and has one or two features. 
+### App Description
+##### This Repo is representing all the apps that I do in my free time, app that is small and has one or two features. 
 
-## The Apps
-#### Speach App: App that speak any sentence you give.
-#### Scan App: App that takes text from images and put it in text. 
-#### WeSplit App: App that check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. 
-#### Temperature conversion App: App that handles temperature unit conversions: users will select an input temperature unit and an output temperature unit, then enter a value, and see the output of the conversion.
-#### Guess the Flag App: It's guessing game that helps users learn some of the many flags of the world.
+### The Apps
+##### Speach App: App that speak any sentence you give.
+##### Scan App: App that takes text from images and put it in text. 
+##### WeSplit App: App that check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. 
+##### Temperature conversion App: App that handles temperature unit conversions: users will select an input temperature unit and an output temperature unit, then enter a value, and see the output of the conversion.
+##### Guess the Flag App: It's guessing game that helps users learn some of the many flags of the world.
+
+
+### ScreenShots
+![Application](https://user-images.githubusercontent.com/115739420/212570318-cbef73cf-6cb7-4fe2-924d-50d63166ab04.png)
+![Temperature Convert](https://user-images.githubusercontent.com/115739420/212570343-6225c1fb-62e7-49f9-aedc-7dc561c0e969.png)
+![Speach App](https://user-images.githubusercontent.com/115739420/212570361-d505eb57-9c9a-45b4-b301-26f388cc8120.png)
