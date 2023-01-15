@@ -106,8 +106,7 @@
 		E60C9A32296903EA00CCBDFB /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				E60C9A5D2969056B00CCBDFB /* PrayerTimesKit */,
-				E60C9A5E2969057300CCBDFB /* PrayerTimesUI */,
+				E60C9A5E2969057300CCBDFB /* App */,
 				E62C24FC2974AA950087366C /* SwitchApps.swift */,
 				E60C9A35296903EA00CCBDFB /* ContentView.swift */,
 				E6646D742971CD4D00671EC0 /* SpeachApp.swift */,
@@ -146,19 +145,12 @@
 			path = TestUITests;
 			sourceTree = "<group>";
 		};
-		E60C9A5D2969056B00CCBDFB /* PrayerTimesKit */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = PrayerTimesKit;
-			sourceTree = "<group>";
-		};
-		E60C9A5E2969057300CCBDFB /* PrayerTimesUI */ = {
+		E60C9A5E2969057300CCBDFB /* App */ = {
 			isa = PBXGroup;
 			children = (
 				E60C9A33296903EA00CCBDFB /* TestApp.swift */,
 			);
-			path = PrayerTimesUI;
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
