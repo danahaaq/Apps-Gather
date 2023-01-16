@@ -43,7 +43,12 @@ struct SwitchApps: View {
                         Guess_the_Flag()
                     } label: {
                         Label("Guess the Flag App ", systemImage: "folder")
-                    } 
+                    }
+                    NavigationLink {
+                        BetterSleep()
+                    } label: {
+                        Label("Better Sleep App ", systemImage: "folder")
+                    }
                 }
             }
             .navigationBarTitleDisplayMode(.inline)
