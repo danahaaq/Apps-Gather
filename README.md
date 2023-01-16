@@ -12,4 +12,4 @@
 ##### Better Sleep App: It’s designed to help coffee drinkers get a good night’s sleep by asking them questions.
 
 ### ScreenShots
-![Application](https://user-images.githubusercontent.com/115739420/212570318-cbef73cf-6cb7-4fe2-924d-50d63166ab04.png)
+<img width="281" alt="Apps" src="https://user-images.githubusercontent.com/115739420/212699357-1eb34427-b8ce-414c-bd6d-ce4ba92ba359.png">
